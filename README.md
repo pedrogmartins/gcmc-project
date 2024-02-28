@@ -1,6 +1,6 @@
 # GCMC Project
 
-Investigation of gas adsoprtion in MOFs systems using neural network potential driven grand canonical Monte Carlo simulations. Here you will find a sample of scripts and jupyter notebooks to implement workflow tasks. 
+Investigation of gas adsoprtion in MOFs systems using neural network potential driven grand canonical Monte Carlo simulations. Here you will find a sample of scripts to implement workflow tasks. 
 
 
 ## Publications
