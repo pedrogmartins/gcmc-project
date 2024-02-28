@@ -4,8 +4,8 @@ import feather
 import sys
 
 #This script takes in a directory of LAMMPS simulations (argument #1)
-#   and extracts the ouput for a GCCM calculation into a pandas data frame
-#   saved as a compressed feather file in the /results directory with the
+#   and extracts the ouput for a GCCM calculation into a pandas data frame.
+#   Data is saved as a compressed feather file in the ./results directory with the
 #   original simulation directory name.
 
 #Input is folder name
