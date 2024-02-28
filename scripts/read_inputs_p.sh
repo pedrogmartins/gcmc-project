@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#This bash script creates atomatically LAMMPS GCMC input files from
-#   a .txt file with inputs/parameters separated by " ", one simulations
-#   per line. It populates a blank sample script lammps_inputs_p.sh with
-#   all files, creates a directory for this simulation and submits the
+#This bash script creates LAMMPS GCMC input files from an input
+#    .txt file with parameters separated by " ", one simulations
+#   per line. It populates a sample initial script lammps_inputs_p.sh with
+#   all parameters, creates a directory for this simulation and submits the
 #   slurm job.
 
 while read p; do
