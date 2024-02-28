@@ -7,7 +7,7 @@ from scipy.optimize import curve_fit
 #This script extracts adsorption isotherms stored in arrays, and
 #   calculates the isoteric heat of adsorption versus CO2 occupancy.
 #   We fit the isotherm with a Langmuit dual-site adsorption
-#   model from 3 different isotherms temperatures simultaneouly to
+#   model from 3 different isotherms temperatures simultaneously to
 #   extract the isosteric heat of adsoprtion according to [1].
 
 # [1] Mason, Jarad A., et al. "Evaluating metal–organic frameworks
